@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_shop"
+            android:icon="@drawable/ic_outline_my_shop_24"
+            android:title="@string/my_shop" />
+        <item
+            android:id="@+id/manage_product"
+            android:icon="@drawable/ic_outline_add_manage_product_24"
+            android:title="@string/manage_products" />
+        <item
+            android:id="@+id/share_shop"
+            android:icon="@drawable/ic_outline_share_app_24"
+            android:title="@string/share_your_shop" />
+        <item
+            android:id="@+id/create_offer"
+            android:icon="@drawable/ic_outline_local_offer_24"
+            android:title="@string/create_offer" />
+    </group>
+</menu>

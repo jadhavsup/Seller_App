@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_myshop">
+
+    <fragment
+        android:id="@+id/nav_myshop"
+        android:name="com.example.e_krushi_sellerapp.ui.home.HomeFragment"
+        android:label="@string/my_shop"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_manageproduct"
+        android:name="com.example.e_krushi_sellerapp.ui.gallery.GalleryFragment"
+        android:label="@string/manage_products"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_shareshop"
+        android:name="com.example.e_krushi_sellerapp.ui.slideshow.SlideshowFragment"
+        android:label="@string/share_your_shop"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_offer"
+        android:name="com.example.e_krushi_sellerapp.ui.slideshow.SlideshowFragment"
+        android:label="@string/create_offer"
+        tools:layout="@layout/fragment_slideshow" />
+
+</navigation>

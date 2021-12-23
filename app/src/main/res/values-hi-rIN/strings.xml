@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ई-कृषि_सेलर ऐप</string>
+
+    <string name="todo">todo</string>
+    <string name="E_krushi">ई-कृषि</string>
+    <string name="online_shopping_platform_for_farmers">विक्रेताओं के लिए ऑनलाइन बिक्री मंच</string>
+    <string name="to_register_to_e_krushi_transport_enter_the_following_details">ई-कृषि के लिए पंजीकरण करने के लिए नीचे दिए गए विवरण दर्ज करें</string>
+    <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="phone">अपना फ़ोन नंबर दर्ज करें</string>
+    <string name="pincode">अपना पिनकोड दर्ज करें</string>
+    <string name="shopName">अपनी दुकान का नाम दर्ज करें</string>
+    <string name="Address">अपना पता दर्ज करें</string>
+    <string name="Licence">अपना लाइसेंस नंबर दर्ज करें</string>
+    <string name="area_colony_street_village">गाँव</string>
+    <string name="landmark_e_g_near_hospital">लैंडमार्क</string>
+    <string name="next">अगला</string>
+    <string name="Register">रजिस्टर करें</string>
+    <string name="title_activity_add_product">जोड़ें उत्पाद</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">सेटिंग्ज </string>
+    <string name="my_shop">मेरी दुकान</string>
+    <string name="manage_products">उत्पाद प्रबंधित करें</string>
+    <string name="share_your_shop">अपनी दुकान साझा करें</string>
+    <string name="create_offer">ऑफ़र बनाएं</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="choose_your_language">अपनी भाषा चुनें</string>
+    <string name="next1">अगला</string>
+    <string name="welcome_to_the_e_krushi">ई-कृषि में आपका स्वागत है</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="a_6_digit_otp_will_sent_to_verify_your_mobile_number">आपके मोबाइल नंबर को सत्यापित करने के लिए एक 6 अंकों का ओटीपी भेजा जाएगा</string>
+    <string name="get_otp">ओटीपी प्राप्त करें</string>
+    <string name="otp_verification">ओटीपी सत्यापन</string>
+    <string name="enter_the_otp_you_received">आपको प्राप्त हुआ ओटीपी दर्ज करें</string>
+    <string name="enter_otp_here">यहां ओटीपी दर्ज करें</string>
+    <string name="login">लॉगिन करें</string>
+    <string name="terms_and_conditions">नियम और शर्तें</string>
+    <string name="upload_licence">अपलोड लाइसेंस</string>
+    <string name="add_your_products">अपने उत्पाद जोड़ें</string>
+    <string name="resend_otp_again">ओटीपी फिर से भेजें</string>
+    <string name="didn_t_receive_otp">ओटीपी प्राप्त नहीं हुआ</string>
+
+</resources>
